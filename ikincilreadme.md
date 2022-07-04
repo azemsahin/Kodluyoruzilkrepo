@@ -2,6 +2,9 @@
 Bu repo [Kodluyoruz](https://app.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
+![](repobaslangic.png)
+
+
 ## **Installation**
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
